@@ -18,5 +18,12 @@
 *   high-traffic applications
 *   React Native -> mobile apps
 
-points to remember
+
+### command to create an app
+```
+npx create-react-app first-app
+```
+
+
+### points to remember
 *   project name should be in lower case

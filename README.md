@@ -19,7 +19,7 @@
 *   React Native -> mobile apps
 
 
-### command to create an app
+### create react app
 ```
 npx create-react-app first-app
 ```
